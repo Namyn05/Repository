@@ -1,0 +1,52 @@
+/* Reset de Estilos */
+body,
+h1,
+h2,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos corpo */
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+h7 {
+    color: #fff;
+    text-align: center;
+}
+
+p {
+    color: #fff;
+    text-align: center;
+}
+
+.história {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.banner-container img {
+    width: 50%;
+}
+
+.tema {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.biblioteca{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
